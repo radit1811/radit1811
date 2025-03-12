@@ -1,8 +1,11 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Ahmad Raditya</h1>
+<h3 align="center"></h3>
+
+## 💫 About Me:
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">
 💥 I’m currently working on Software Engineering<br>👯 I’m looking to collaborate on Nusanode Cloud Hosting<br>🤝 I’m looking for help with SMK Media Informatika<br>🌱 I’m currently learning Network Engineer
 
-
-## 🌐 Socials:
+## <br>🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hyperynzex) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.raditsp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-raditya-322395350/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radityasp1811@gmail.com) 
 
 # 💻 Tech Stack:
